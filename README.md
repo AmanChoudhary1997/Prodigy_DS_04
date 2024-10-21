@@ -1,4 +1,4 @@
-#![Screenshot 2024-10-21 195333](https://github.com/user-attachments/assets/b7e7d923-abbb-4e2b-b141-5eb666feab63)
+![Screenshot 2024-10-21 195333](https://github.com/user-attachments/assets/b7e7d923-abbb-4e2b-b141-5eb666feab63)
 
 # Twitter Sentiment Analysis
 
